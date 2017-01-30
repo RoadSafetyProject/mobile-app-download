@@ -1,0 +1,21 @@
+{
+    "version": "0.1",
+    "name": "Mobile App Download",
+    "description": "Mobile Apps",
+    "launch_path": "index.html",
+    "icons": {
+        "16": "img/mobile.png",
+        "48": "img/mobile.png",
+        "128": "img/mobile.png"
+    },
+    "developer": {
+        "name": "HISPTZ",
+        "url": ""
+    },
+    "default_locale": "en",
+    "activities": {
+        "dhis": {
+            "href": "/"
+        }
+    }
+}
